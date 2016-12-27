@@ -4,4 +4,6 @@
 
 <p>I have learned few basic stuff about <strong>GitHub</strong>. Understood the workflow and things about  <strong>"Repos"</strong></p>
 
-<h2>Yes! I am late to the party. Oh well at least i made it....</h2>
+<h3>Yes! I am late to the party. But well at least i made it....</h3>
+
+<p>Game <strong>On</strong></p>
