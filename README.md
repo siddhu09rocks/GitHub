@@ -6,4 +6,4 @@
 
 <h3>Yes! I am late to the party. But well at least I made it.... </h3>
 
-<p><strong>Game On</strong></p>
+<p><strong>GAME ON</strong> <small>caps intended</small></p>
